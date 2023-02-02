@@ -19,7 +19,8 @@ public abstract class Team
     }
 
     public void printTeamMembers() {
-        for (int i = 0; i < members.size(); i++) {
+        for (int i = 0; i < members.size(); i++)
+        {
             System.out.println("\t" + members.get(i).getMemberName());
         }
     }
