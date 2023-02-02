@@ -9,5 +9,8 @@ public class TeamTeam2 extends Team{
     @Override
     public void createTeamMembers() {
         members.add(new TeamMember("Seth Coleman"));
+        members.add(new TeamMember("Owen Halliday"));
+
     }
+
 }
