@@ -15,5 +15,6 @@ public class Team01 extends Team {
     public void createTeamMembers()
     {
         members.add(new TeamMember("Nate Garay"));
+        members.add(new TeamMember("Marie Stella Addo"));
     }
 }
