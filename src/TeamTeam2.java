@@ -10,6 +10,7 @@ public class TeamTeam2 extends Team{
     public void createTeamMembers() {
         members.add(new TeamMember("Seth Coleman"));
         members.add(new TeamMember("Owen Halliday"));
+        members.add(new TeamMember("Orlando Rodriguez"));
 
     }
 
